@@ -1,4 +1,3 @@
-# readme-info
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
 <h3 align="center">Learning daily something new</h3>
 
